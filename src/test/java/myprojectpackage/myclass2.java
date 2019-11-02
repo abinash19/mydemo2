@@ -6,8 +6,9 @@ public class myclass2 {
 
 	
 	@Test
-	public void method1()
+	public void method2()
 	{
-		System.out.println("Inside Method1");
+		System.out.println("Inside Method2");
+		System.out.println("Inside Method12");
 	}
 }
