@@ -10,5 +10,6 @@ public class myclass2 {
 	{
 		System.out.println("Inside Method2");
 		System.out.println("Inside Method12");
+		System.out.println("Inside Method123");
 	}
 }
